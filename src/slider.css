@@ -1,0 +1,32 @@
+
+.slider{
+    height:40px;
+    border:2px solid red;
+    border-radius: 20px;
+    
+   
+}
+.thumb{
+    width:35px;
+    height:35px;
+    background-color: red;
+    border:2px solid rgb(61, 0, 0);
+    outline:0;
+    border-radius:20px;
+  
+
+}
+
+.slider.green{
+    border: 2px solid rgb(0, 195, 0);
+}
+.slider.green .thumb{
+    background-color: rgb(1, 193, 1);
+    border:2px solid green;
+}
+
+.back-button{
+    width:20px;
+    height:20px;
+   
+}
